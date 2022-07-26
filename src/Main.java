@@ -5,14 +5,11 @@ public class Main {
         Teacher Ahmet = new Teacher();
         Teacher Mehmet = new Teacher();
 
-        Student Birkan = new Student();
+        Student Biromedic = new Student();
 
         Course Math = new Course();
         Course Physics = new Course();
         Course Chemistry = new Course();
-
-        Mahmut.setBranch("MATH");
-        Mahmut.getName();
 
 
 
